@@ -1,8 +1,6 @@
-# XPlayer
-一个基于Qt5.8的视频播放器
+# A simple video player
+Support progress bar volume, mouse and keyboard control, support file drag and drop playback, and support double speed
 
-实现了基本的播放功能：全屏控制、播放进度控制、音量控制......
+Suggest using LAVFilters
 
-### Linux:
-
-![](http://i68.tinypic.com/29vgsxz.jpg)
+！[效果图](rstImg/rst.bmp)
